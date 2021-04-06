@@ -67,9 +67,9 @@ I have recently been studying microservices, systems architecture, container env
 <p>
 <a href="https://github.com/Dheph">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheph&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheph&show_icons=true&theme=dark" />
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dheph&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheph&layout=compact&themes=dark)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 </p>
 
