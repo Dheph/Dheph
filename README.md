@@ -32,6 +32,8 @@ I have recently been studying microservices, systems architecture, container env
 
 ### Tech stacks:
 
+<img align="left" alt="html5" width="36px" src="https://avatars.githubusercontent.com/u/51960639?s=400&u=9d9e090e410648c4feacdc51ecfbfab6da50fb49&v=4" alt="html5" />
+
 <img align="left" alt="html5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" />
 
 <img align="left" alt="css3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
@@ -55,6 +57,9 @@ I have recently been studying microservices, systems architecture, container env
 <img align="left" alt="Insomnia" width="36px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png" />
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
+
+<img align="left" alt="Next" width="36px" src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" />
+
 
 <br />
 <br />
