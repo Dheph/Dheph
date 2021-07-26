@@ -8,10 +8,6 @@ I am a proactive person, I like to study and always know new things.
 
 > soy una persona proactiva, me gusta estudiar y siempre conocer nuevas cosas.
 
-I am finishing an information systems course, I recently started a project related to finance and I have been in the fullstack area of ​​web and mobile development for almost two years.
-
-> Estoy terminando un curso de sistemas de información, recientemente comencé un proyecto relacionado con las finanzas y llevo casi dos años en el área fullstack de desarrollo web y móvil.
-
 I have recently been studying microservices, systems architecture, container environments, small automations with python, and good practices using typescript
 
 > Recientemente he estado estudiando microservicios, arquitectura de sistemas, entornos de contenedores, pequeñas automatizaciones con python y buenas practicas usando typescript
