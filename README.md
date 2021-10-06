@@ -81,7 +81,7 @@ I have recently been studying microservices, systems architecture, container env
 <p>
 
   <a href="https://www.linkedin.com/in/dhepherson-ribeiro-90b991184">
-    <img align="left" alt="Linkedin" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>
+    <img align="left" alt="Linkedin" width="44px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
   
    <a href="https://blog-dheph.vercel.app">
