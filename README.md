@@ -34,8 +34,8 @@ I have recently been studying microservices, systems architecture, container env
 
 <div align="center">
   <a href="https://github.com/Dheph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheph&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheph&layout=compact&langs_count=10&theme=dracula"/>
 </div>
   
 
