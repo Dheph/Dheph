@@ -1,7 +1,9 @@
-  <img align="center" alt="dheph-programming-gif" width="70%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
-
-# Hi I'm Dheph 😎
+  # Hi I'm Dheph 😎
 > Hola me llamo Dheph 😎  
+
+  
+  <img align="center" alt="dheph-programming-gif" width="50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
+
 
 ### 💻 About Me 
 > sobre yo
@@ -124,6 +126,7 @@ I have recently been studying microservices, systems architecture, container env
   
 ## 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/Dheph/Dheph/output/github-contribution-grid-snake.svg)
 
   ## Contact Me
 
