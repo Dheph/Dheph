@@ -25,7 +25,7 @@ I have recently been studying microservices, systems architecture, container env
 
 - 💻 new technologies.
 
-- 🦾 automation.
+- 🦾 engineer.
 
 
 ### My Stats
