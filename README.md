@@ -1,3 +1,5 @@
+  <img align="center" alt="dheph-programming-gif" width="70%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
+
 # Hi I'm Dheph 😎
 > Hola me llamo Dheph 😎  
 
@@ -71,8 +73,7 @@ I have recently been studying microservices, systems architecture, container env
   <img align="center" alt="dheph-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
     
   <img align="center" alt="dheph-SQL" height="40" width="35" src="https://user-images.githubusercontent.com/51960639/140797953-ee845de4-f3d4-4a27-9619-8417c9405665.png" />
-    
-  <img align="right" alt="dheph-pig-cartoon" height="150" src="https://i.pinimg.com/564x/a9/3a/bf/a93abffe3a11f3823aada0b3c83e6d4e.jpg?width=473&height=473" data-canonical-src="https://i.pinimg.com/564x/a9/3a/bf/a93abffe3a11f3823aada0b3c83e6d4e.jpg?width=473&height=473" style="max-width: 100%;">
+
 </div>
 
   <br />
@@ -97,6 +98,7 @@ I have recently been studying microservices, systems architecture, container env
     
   <img align="center" alt="dheph-NEOVIM" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" />
     
+  <img align="right" alt="dheph-pig-cartoon" height="150" src="https://i.pinimg.com/564x/a9/3a/bf/a93abffe3a11f3823aada0b3c83e6d4e.jpg?width=473&height=473" data-canonical-src="https://i.pinimg.com/564x/a9/3a/bf/a93abffe3a11f3823aada0b3c83e6d4e.jpg?width=473&height=473" style="max-width: 100%;" />
 </div>
 
    <br />
