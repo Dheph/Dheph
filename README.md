@@ -12,13 +12,19 @@ I am a proactive person, I like to study and always know new things.
 
 > soy una persona proactiva, me gusta estudiar y siempre conocer nuevas cosas.
 
-I have recently been studying microservices, systems architecture, container environments, small automations with python, and good practices using typescript
+If you want know me more, visit my linkedin profile:
 
-> Recientemente he estado estudiando microservicios, arquitectura de sistemas, entornos de contenedores, pequeñas automatizaciones con python y buenas practicas usando typescript
+> siquieres conocerme un poco más, visite mi perfil de linkedin
+
+---
+
+🫲 <a href="https://www.linkedin.com/in/dhepherson-ribeiro-90b991184">
+    <img align="left" alt="Linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  </a>
+  
+---
 
 
-
-----
 ##  👨‍💻 Development
 
 - 💡 Innovation
