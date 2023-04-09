@@ -7,7 +7,7 @@
 </div>  
 
 
-### I'm Dheph, a full-time mobile developer 👨‍💻 working remotely since 2018 🚀  
+### I'm Dheph, a full-time mobile developer 👨‍💻 working remotely since 2018  🚀  
 
 <br />
 
