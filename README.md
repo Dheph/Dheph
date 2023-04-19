@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1 align="center"> Hello World!  👋  </h1>
+  <h1 align="center"> Hello World!   👋  </h1>
   <img align="center" alt="dheph-programming-gif" width="60%" src="https://user-images.githubusercontent.com/51960639/214765238-70e9f520-03a1-44a3-b63e-f076b2513564.gif" /> 
 </div>  
 
