@@ -10,8 +10,6 @@
 ### I'm Dheph, a full-time mobile developer 👨‍💻 working remotely since 2018  🚀  
 
 <br />
-
-- 💼 I’m currently working at Sambatech  
   
 
 -  🌱 I’m currently learning native development with Java and Kotlin  
