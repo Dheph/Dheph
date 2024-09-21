@@ -18,7 +18,7 @@
 - ❓ I also started my channel for creating content about technology and development.  
   
 
-- ⚡ Fun fact: I use spaces over tabs  
+- ⚡ Fun fact: I use spaces over tabs
   
   <br />
 
