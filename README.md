@@ -77,7 +77,7 @@ If you enjoy tech, programming, and sarcastic humor, follow me there! 🚀
 
 ## 📬 **Contact Me**:  
 
-📧 jeffersom.ribeiro@outlook.com | 💼 [LinkedIn](https://linkedin.com/in/dhepherson-ribeiro-90b991184) | 🐦 [Twitter](https://twitter.com/@_Dheph)  
+📧 jeffersom.ribeiro@outlook.com | 💼 [LinkedIn](https://linkedin.com/in/jeffersom) | 🐦 [Twitter](https://twitter.com/@_Dheph)  
 
 ### ☕ Support Me  
 
