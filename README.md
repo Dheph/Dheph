@@ -137,8 +137,15 @@ In my daily routine, I enjoy solving complex problems, automating processes, and
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dheph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheph&layout=compact&langs_count=10&theme=dracula&hide_border=true" height="180em" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheph&theme=dracula" width="95%" alt="Profile Details"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dheph&theme=dracula" height="180em" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dheph&theme=dracula" height="180em" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dheph&theme=dracula" height="180em" alt="Most Commit Language"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheph&theme=dracula&hide_border=true" height="180em" alt="GitHub Streak"/>
 </div>
@@ -159,24 +166,50 @@ In my daily routine, I enjoy solving complex problems, automating processes, and
   </picture>
 </div>
 
+<br/>
+
 ---
 
 ## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Dheph/nativecn-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dheph&repo=nativecn-ui&theme=dracula&hide_border=true" alt="nativecn-ui"/>
-  </a>
-  <a href="https://github.com/Dheph/portifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dheph&repo=portifolio&theme=dracula&hide_border=true" alt="portifolio"/>
-  </a>
-  <a href="https://github.com/Dheph/nvim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dheph&repo=nvim&theme=dracula&hide_border=true" alt="nvim"/>
-  </a>
-  <a href="https://github.com/Dheph/nvim-lua">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dheph&repo=nvim-lua&theme=dracula&hide_border=true" alt="nvim-lua"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <b><a href="https://github.com/Dheph/nativecn-ui">nativecn-ui</a></b>
+      <br/>
+      Beautiful and customizable React Native components
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/Dheph/nativecn-ui?style=flat-square&label=★&color=yellow"/>
+    </td>
+    <td align="center" width="300">
+      <b><a href="https://github.com/Dheph/portifolio">portifolio</a></b>
+      <br/>
+      Personal portfolio built with JavaScript
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/github/stars/Dheph/portifolio?style=flat-square&label=★&color=yellow"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <b><a href="https://github.com/Dheph/nvim">nvim</a></b>
+      <br/>
+      Neovim configuration
+      <br/>
+      <img src="https://img.shields.io/badge/Vim_Script-019733?style=flat-square&logo=vim&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/Dheph/nvim?style=flat-square&label=★&color=yellow"/>
+    </td>
+    <td align="center" width="300">
+      <b><a href="https://github.com/Dheph/nvim-lua">nvim-lua</a></b>
+      <br/>
+      Neovim Lua configuration
+      <br/>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/Dheph/nvim-lua?style=flat-square&label=★&color=yellow"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
