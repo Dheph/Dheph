@@ -236,26 +236,6 @@ In my daily routine, I enjoy solving complex problems, automating processes, and
 
 ---
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<p align="center">
-  <a href="https://www.youtube.com/@dheph?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Subscribe"/>
-  </a>
-</p>
-
----
-
-## 📝 Latest Medium Articles
-
-<!-- BLOG:START -->
-<!-- BLOG:END -->
-
----
-
 ## 📬 Contact
 
 <div align="center">
