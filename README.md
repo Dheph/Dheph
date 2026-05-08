@@ -72,31 +72,7 @@ In my daily routine, I enjoy solving complex problems, automating processes, and
 
 ## 🛠️ Tech Stack
 
-<details>
-  <summary><b>🇧🇷 Português</b></summary>
-  <br/>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">📱</td>
-        <td><b>Mobile</b></td>
-        <td>React Native, Swift, Kotlin, Java, Android</td>
-      </tr>
-      <tr>
-        <td align="center">💻</td>
-        <td><b>Backend</b></td>
-        <td>Node.js, TypeScript, Firebase, MongoDB</td>
-      </tr>
-      <tr>
-        <td align="center">🛠️</td>
-        <td><b>DevOps & Outros</b></td>
-        <td>AWS, Git, Bash, Linux</td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br/>
+</br>
 
 ### 📱 Mobile
 
