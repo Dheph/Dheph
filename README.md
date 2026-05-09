@@ -105,7 +105,7 @@ In my daily routine, I enjoy solving complex problems, automating processes, and
 ### 🤖 AI & Dev Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenCode-6C5CE7?style=for-the-badge&logoColor=white" alt="OpenCode"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logoColor=white" alt="OpenCode"/>
   <img src="https://img.shields.io/badge/Claude_Code-6B3FA0?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
   <img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
