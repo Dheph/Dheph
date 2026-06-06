@@ -22,13 +22,16 @@
 
   ## 🚀 Sobre Mim
   
-  Sou **Desenvolvedor Mobile** com **6+ anos de experiência**, atualmente expandindo meu foco para **iOS e Swift**, enquanto continuo aprimorando minhas habilidades em **React Native** e desenvolvimento mobile híbrido/nativo. Meu trabalho sempre foi guiado por soluções escaláveis, melhoria de performance e experiência do usuário.
-  
-  No meu dia a dia, gosto de resolver problemas complexos, automatizar processos e escrever código limpo e bem documentado. Além disso, compartilho conhecimento no meu canal do YouTube, discutindo programação e carreira com um toque divertido e sarcástico.
+Sou **(Dheph)** — um **engenheiro de software** focado em experiência do desenvolvedor, ferramentas e arquitetura de software.
+
+Eu construo produtos, experimento com novas tecnologias e crio ferramentas práticas que resolvem problemas reais de desenvolvedores. Além do trabalho de engenharia, produzo conteúdo técnico sobre arquitetura de software, linguagens de programação, sistemas distribuídos e como as tecnologias modernas funcionam nos bastidores.
+
+Meu objetivo é tornar conceitos técnicos complexos mais fáceis de entender e construir ferramentas que melhorem o fluxo de trabalho diário dos desenvolvedores.
 
   ## 🌱 O Que Estou Fazendo Agora?
-  
-  - ✔️ **Estudando Swift e desenvolvimento iOS nativo**
+
+  - ✔️ **Criando novos projetos**
+  - ✔️ **Estudando desenvolvimento mobile nativo**
   - ✔️ **Mantendo minhas habilidades em React Native afiadas**
   - ✔️ **Gerenciando minha comunidade no Discord e criando conteúdo de tecnologia**
   - ✔️ **Explorando novas formas de contribuir com a comunidade tech**
@@ -39,9 +42,11 @@
 
 ## 🚀 About Me
 
-I'm **(Dheph)** — a **Mobile Developer** with **6+ years of experience**, currently expanding my focus to **iOS and Swift**, while continuing to refine my **React Native** and hybrid/native mobile development skills. My work has always been driven by scalable solutions, improving performance, and enhancing user experience.
+I'm **(Dheph)** — a **Software engineer** focused on developer experience, tooling, and software architecture.
 
-In my daily routine, I enjoy solving complex problems, automating processes, and writing clean, well-documented code. I also share knowledge on my YouTube channel, discussing programming and career topics with a fun and sarcastic touch.
+I build products, experiment with new technologies, and create practical tools that solve real-world developer problems. Alongside engineering work, I produce technical content covering software architecture, programming languages, distributed systems, and how modern technologies work behind the scenes.
+
+My goal is to make complex technical concepts easier to understand and build tools that improve the day-to-day workflow of developers.
 
 ---
 
@@ -50,8 +55,12 @@ In my daily routine, I enjoy solving complex problems, automating processes, and
 <div align="center">
   <table>
     <tr>
+      <td align="center">🌯</td>
+      <td><b>Creating new projects</b></td>
+    </tr>
+    <tr>
       <td align="center">📱</td>
-      <td><b>Studying Swift & iOS Native Development</b></td>
+      <td><b>Studying Mobile Native Development</b></td>
     </tr>
     <tr>
       <td align="center">⚛️</td>
